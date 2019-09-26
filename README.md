@@ -1,5 +1,5 @@
 
-<h2>Hallo, ik ben [cas de Graaff] (28458.hosts2.ma-cloud.nl/)</h2>
+<h2>Hallo, ik ben [cas de Graaff] (https://panel.ma-cloud.nl/ispconfig/?_t=1569494336/)</h2>
 Ik doe de opleiding Media/Game devolopment op het Media college in Amsterdam.
 
 Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je best snel alles.
@@ -12,6 +12,7 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
   <li>CSS</li>
   </ul>
 De school website: [Link](https://www.ma-web.nl/)
-Mijn ma-cloud pagina: [Link](28458.hosts2.ma-cloud.nl/)
+
+Mijn ma-cloud pagina: [Link](https://panel.ma-cloud.nl/ispconfig/?_t=1569494336)
 
 
