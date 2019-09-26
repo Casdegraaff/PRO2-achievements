@@ -6,11 +6,11 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
 
 3 voorbeelden van programmeer talen die ik leer:
 
-<ol>
+<ul>
   <li>Javascript</li>
   <li>C#</li>
   <li>CSS</li>
-  </ol>
+  </ul>
 De school website: [Link](https://www.ma-web.nl/)
 
 
