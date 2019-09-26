@@ -11,8 +11,8 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
   <li>C#</li>
   <li>CSS</li>
   </ul>
-De school website:(https://www.ma-web.nl/)
+De school website: https://www.ma-web.nl/
 
-Mijn ma-cloud pagina:(https://panel.ma-cloud.nl/ispconfig/?_t=1569494336)
+Mijn ma-cloud pagina: https://panel.ma-cloud.nl/ispconfig/?_t=1569494336 
 
 
