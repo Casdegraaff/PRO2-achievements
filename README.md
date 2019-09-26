@@ -1,2 +1,2 @@
-alt-H1
-Hallo, ik ben cas
+
+<h2>Hallo, ik ben cas</h2>
