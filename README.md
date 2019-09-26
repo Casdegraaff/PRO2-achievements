@@ -4,6 +4,13 @@ Ik doe de opleiding Media/Game devolopment op het Media college in Amsterdam.
 
 Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je best snel alles.
 
+3 voorbeelden van programmeer talen die ik leer:
+
+<ol>
+  <li>Javascript</li>
+  <li>C#</li>
+  <li>CSS</li>
+  </ol>
 De school website: [Link](https://www.ma-web.nl/)
 
 
