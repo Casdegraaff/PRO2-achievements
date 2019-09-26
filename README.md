@@ -12,5 +12,6 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
   <li>CSS</li>
   </ul>
 De school website: [Link](https://www.ma-web.nl/)
+Mijn ma-cloud pagina: [Link](28458.hosts2.ma-cloud.nl/)
 
 
