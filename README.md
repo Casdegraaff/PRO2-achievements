@@ -1,5 +1,5 @@
 
-<h2>Hallo, ik ben [cas de Graaff] (28458.hosts2.ma-cloud.nl)</h2>
+<h2>Hallo, ik ben [cas de Graaff] (28458.hosts2.ma-cloud.nl/)</h2>
 Ik doe de opleiding Media/Game devolopment op het Media college in Amsterdam.
 
 Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je best snel alles.
