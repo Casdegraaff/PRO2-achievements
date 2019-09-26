@@ -6,4 +6,4 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
 
 De school website:
 
-[I'm an inline-style link](https://www.ma-web.nl/)
+[LINK](https://www.ma-web.nl/)
