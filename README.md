@@ -18,4 +18,4 @@ De school website: https://www.ma-web.nl/
 Mijn ma-cloud pagina: https://panel.ma-cloud.nl/ispconfig/?_t=1569494336 
   <hr size="30" noshade>
  
-<vr size="30" noshade>
+
