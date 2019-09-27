@@ -9,12 +9,13 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
 3 voorbeelden van programmeer talen die ik leer:
 
 <ul>
-  <li>Javascript</li> <b>**bold**</b>
-  <li>C#</li> <b>**bold**</b>
-  <li>CSS</li> <b>**bold**</b>
+  <li>Javascript</li> 
+  <li>C#</li> 
+  <li>CSS</li> 
   </ul>
 De school website: https://www.ma-web.nl/
 
 Mijn ma-cloud pagina: https://panel.ma-cloud.nl/ispconfig/?_t=1569494336 
   <hr size="30" noshade>
+  b<b>**oof**</b>
 
