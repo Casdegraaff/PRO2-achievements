@@ -9,9 +9,9 @@ Het is een hele toffe school waar je veel zelf dingen uitzoekt, hierdoor leer je
 3 voorbeelden van programmeer talen die ik leer:
 
 <ul>
-  <li>Javascript **bold**</li>
-  <li>C# **bold**</li>
-  <li>CSS **bold**</li>
+  <li>Javascript</li> <b>**bold**</b>
+  <li>C#</li> <b>**bold**</b>
+  <li>CSS</li> <b>**bold**</b>
   </ul>
 De school website: https://www.ma-web.nl/
 
