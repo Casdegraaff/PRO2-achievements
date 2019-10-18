@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\obj\Debug\netcoreapp3.0\pr02.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\obj\Debug\netcoreapp3.0\pr02.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\obj\Debug\netcoreapp3.0\pr02.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\bin\Debug\netcoreapp3.0\pr02.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\bin\Debug\netcoreapp3.0\pr02.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\bin\Debug\netcoreapp3.0\pr02.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\bin\Debug\netcoreapp3.0\pr02.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\bin\Debug\netcoreapp3.0\pr02.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\bin\Debug\netcoreapp3.0\pr02.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\obj\Debug\netcoreapp3.0\pr02.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\if statements\obj\Debug\netcoreapp3.0\pr02.pdb

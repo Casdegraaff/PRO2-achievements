@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\bin\Debug\netcoreapp3.0\Les 4.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\bin\Debug\netcoreapp3.0\Les 4.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\bin\Debug\netcoreapp3.0\Les 4.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\bin\Debug\netcoreapp3.0\Les 4.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\bin\Debug\netcoreapp3.0\Les 4.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\bin\Debug\netcoreapp3.0\Les 4.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\obj\Debug\netcoreapp3.0\Les 4.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\obj\Debug\netcoreapp3.0\Les 4.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\obj\Debug\netcoreapp3.0\Les 4.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\obj\Debug\netcoreapp3.0\Les 4.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\Les 4\obj\Debug\netcoreapp3.0\Les 4.pdb

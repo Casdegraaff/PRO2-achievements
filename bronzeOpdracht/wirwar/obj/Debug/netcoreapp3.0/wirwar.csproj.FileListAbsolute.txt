@@ -1,0 +1,11 @@
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\obj\Debug\netcoreapp3.0\wirwar.csprojAssemblyReference.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\obj\Debug\netcoreapp3.0\wirwar.AssemblyInfoInputs.cache
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\obj\Debug\netcoreapp3.0\wirwar.AssemblyInfo.cs
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\bin\Debug\netcoreapp3.0\wirwar.exe
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\bin\Debug\netcoreapp3.0\wirwar.deps.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\bin\Debug\netcoreapp3.0\wirwar.runtimeconfig.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\bin\Debug\netcoreapp3.0\wirwar.runtimeconfig.dev.json
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\bin\Debug\netcoreapp3.0\wirwar.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\bin\Debug\netcoreapp3.0\wirwar.pdb
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\obj\Debug\netcoreapp3.0\wirwar.dll
+C:\Users\casde\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pr02\bronzeOpdracht\wirwar\obj\Debug\netcoreapp3.0\wirwar.pdb
